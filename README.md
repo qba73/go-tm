@@ -1,6 +1,5 @@
-# Go Testing Cookbook
-
+# Go Testing
 
 ![](cover.png)
 
-This repository contains the code examples for the book *Go Testing Cookbook*, by Jakub Jarosz.
+This repository contains the code examples for the book *Go Testing*, by Jakub Jarosz.
